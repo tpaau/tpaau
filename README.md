@@ -9,8 +9,7 @@
 ---
 
 I'm ***tpaau-17DB***, a self-taught developer from **Poland**. I develop
-various CLI apps and other small utilities, video games, and other GUI apps,
-although some of my projects are yet to be released.
+various CLI apps and other small utilities, video games, and other GUI apps.
 
 Apart from coding, I also do graphic design. All logos,
 wallpapers and other graphical assets in my repos are made by me.
