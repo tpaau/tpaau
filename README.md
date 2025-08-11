@@ -5,6 +5,7 @@
 </div>
 
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@tpaau17db)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/tpaau-17db.bsky.social)
 
 ---
 
@@ -13,18 +14,6 @@ various CLI apps and other small utilities, video games, and other GUI apps.
 
 Apart from coding, I also do graphic design. All logos,
 wallpapers and other graphical assets in my repos are made by me.
-
-<details>
-<summary>Overview of the languages I know...</summary>
-
-The languages are sorted in descending order of my familiarity with them.
-- `Rust`
-- `C++`
-- `bash`
-- `C#`
-- `Python`
-
-</details>
 
 ### Contact
 I can communicate fluently in both English and Polish, so hit me up with
