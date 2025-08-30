@@ -15,6 +15,9 @@ various CLI apps and other small utilities, video games, and other GUI apps.
 Apart from coding, I also do graphic design. All logos,
 wallpapers and other graphical assets in my repos are made by me.
 
+I hate when people include source identifiers or
+UTM parameters in the URLs they share.
+
 ### Contact
 I can communicate fluently in both English and Polish, so hit me up with
 whichever language you feel more comfortable with. 
