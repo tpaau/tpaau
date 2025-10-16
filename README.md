@@ -1,22 +1,15 @@
-<div aligin="center">
-
-![logo](img/logo.jpg)
-
-</div>
+# Hello
 
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@tpaau17db)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/tpaau17db.mastodon.social.ap.brid.gy)
 
 ---
 
-I'm ***tpaau***, a self-taught developer from **Poland**. I develop
-various CLI apps and other small utilities, video games, and other GUI apps.
+Hi, I'm ***tpaau***, a self-taught polish dev!
 
-Apart from coding, I also do graphic design. All logos,
-wallpapers and other graphical assets in my repos are made by me.
+I make various small utilities, games, and themes in my free time.
 
-I hate when people include source identifiers or
-UTM parameters in the URLs they share.
+Take a look at my public repos (or just the pinned ones) for specifics :)
 
 ### Contact
 I can communicate fluently in both English and Polish, so hit me up with
