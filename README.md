@@ -15,6 +15,7 @@ Take a look at my public repos (or just the pinned ones) for specifics :)
 - mail: tpaau-17db@tutamail.com
 - Discord username: "tpaau"
 
+Key Fingerprint: `25EC D687 A17E 5FA9 F432  2F63 33BA DC0B FFD7 4241`
 <details>
 <summary>Show public key...</summary>
 
