@@ -1,23 +1,22 @@
 # Hello
 
+Hi, I'm tpaau - a self-taught polish dev. I do various [open-source projects](https://tpaau.dev/projects), and I frequently switch my focus between them based on my current hyperfixation.
+
+I have a strong focus on security and privacy, and I believe it is my responsibility as a developer to do what I reasonably can to ensure that my software is secure and doesn't compromise user privacy.
+
+## Contact
+[tpaau-17db@tutamail.com](mailto:tpaau-17db@tutamail.com)
+
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@tpaau17db)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/tpaau17db.mastodon.social.ap.brid.gy)
 
----
+## Public key
+Fingerprint: `25EC D687 A17E 5FA9 F432  2F63 33BA DC0B FFD7 4241`
 
-Hi, I'm ***tpaau***, a self-taught polish dev!
+[Download](https://tpaau.dev/keys/tpaau.pub)
 
-I make various small utilities, games, and themes in my free time.
-
-Take a look at my public repos (or just the pinned ones) for specifics :)
-
-### Contact
-- mail: tpaau-17db@tutamail.com
-- Discord username: "tpaau"
-
-Key Fingerprint: `25EC D687 A17E 5FA9 F432  2F63 33BA DC0B FFD7 4241`
 <details>
-<summary>Show public key...</summary>
+<summary>Show</summary>
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
