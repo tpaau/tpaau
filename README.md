@@ -1,8 +1,12 @@
 # Hello
 
-Hi, I'm tpaau - a self-taught polish dev. I do various [open-source projects](https://tpaau.dev/projects), and I frequently switch my focus between them based on my current hyperfixation.
+I'm tpaau - a self-taught autistic dev from Poland! 
 
-I have a strong focus on security and privacy, and I believe it is my responsibility as a developer to do what I reasonably can to ensure that my software is secure and doesn't compromise user privacy.
+I do various [projects](https://tpaau.dev/projects), mainly open-source, mainly in Rust, and I frequently shift my attention between them based on my current hyperfixation.
+
+Very much into stuff like information security, anime (especially Frieren), The SCP Foundation, and sometimes video games. 
+
+Currently working on [Chilen](https://github.com/tpaau/chilen), a cross-platform local music player app written in Rust. I've been working on it in my free time on and off since December, and I feel like I'm finally on a clear path to the first alpha release!
 
 ## Contact
 [tpaau-17db@tutamail.com](mailto:tpaau-17db@tutamail.com)
