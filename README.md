@@ -8,12 +8,6 @@ Very much into stuff like information security, anime (especially Frieren), The 
 
 Currently working on [Chilen](https://github.com/tpaau/chilen), a cross-platform local music player app written in Rust. I've been working on it in my free time on and off since December, and I feel like I'm finally on a clear path to the first alpha release!
 
-## Contact
-[tpaau-17db@tutamail.com](mailto:tpaau-17db@tutamail.com)
-
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@tpaau17db)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/tpaau17db.mastodon.social.ap.brid.gy)
-
 ## Public key
 Fingerprint: `25EC D687 A17E 5FA9 F432  2F63 33BA DC0B FFD7 4241`
 
